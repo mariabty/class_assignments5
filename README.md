@@ -7,7 +7,10 @@ Experiment 5: Form Validation (JavaScript Form Handling)
 using JavaScript.
 
 ● Requirements:
+
 ○ Include fields like name, email, password (with confirmation), and a message box.
+
 ○ Validate fields for emptiness, correct email format, and password matching.
+
 ○ Display appropriate error messages to the user without submitting the form if validation fails.
 
